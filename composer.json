@@ -1,0 +1,12 @@
+{
+    "name": "ekinhbayar/rector-bug-0.10.21",
+    "authors": [
+        {
+            "name": "ekinhbayar",
+            "email": "me@ekins.space"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^0.10.21"
+    }
+}
